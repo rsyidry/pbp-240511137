@@ -1,1 +1,19 @@
+Aspek	Web	Desktop	Mobile
+Bahasa Utama	JavaScript, TypeScript, HTML, CSS	C++, C#, Java, Python	Kotlin, Swift, Dart (Flutter), JavaScript/React Native
+Arsitektur	Client-Server / Multi-tier (Frontend-Backend), SPA (Single Page Application), MPA (Multi Page Application)	Monolithic, Client-Server, Single-user Executable	Mobile Client-Server, Microservices API,
+Cara Distribusi	Di-host di server atau cloud, diakses oleh pengguna melalui Browser menggunakan URL	Melalui file Installer (.exe, .dmg, .deb) atau toko aplikasi desktop (Microsoft Store, Mac App Store)	Toko aplikasi resmi (Google Play Store, Apple App Store) atau melalui file paket aplikasi (APK/IPA)
+Keunggulan	Akses instan tanpa perlu instalasi, Lintas platform (cross-platform) secara alami selama ada browser.
+	Memiliki akses penuh ke perangkat keras dan sistem operasi, Performa tinggi dengan latensi yang rendah.
+	Portabel dan mudah dibawa ke mana saja oleh pengguna, Terintegrasi langsung dengan fitur perangkat (seperti Kamera, GPS, dan Push Notification).
+
+Keterbatasan	Akses ke perangkat keras (hardware) lokal cukup terbatas, Sangat bergantung pada koneksi internet
+	Memerlukan proses instalasi terlebih dahulu, Pembaruan aplikasi harus diunduh dan dipasang oleh pengguna.
+	Ukuran layar relatif terbatas, Dibatasi oleh konsumsi daya baterai dan kapasitas memori
+
+Contoh aplikasi	Figma, Google Docs, Canva	VS Code, Adobe Photoshop, Spotify Desktop	WhatsApp Mobile, Instagram, Gojek
+
+Referensi :
+1.	Rosa, A. S., & Shalahuddin, M. (2018). Rekayasa Perangkat Lunak Terstruktur dan Berorientasi Objek. Bandung: Informatika. (Membahas dasar-dasar arsitektur perangkat lunak, sistem client-server, dan pengembangan aplikasi).
+2.	Dicoding Indonesia. Mengenal Perbedaan Pengembangan Aplikasi Web, Desktop, dan Mobile. Dicoding Blog. Tersedia online di: https://www.dicoding.com/blog
+3.	Utami, E., & Raharjo, S. (2015). Pemrograman Berbasis Platform: Konsep dan Implementasi. Yogyakarta: Andi Offset. (Membahas karakteristik serta metode komparasi antar-platform aplikasi).
 
